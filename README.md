@@ -1,5 +1,7 @@
 # Hidden Issue with whereFulltext and RefreshDatabase in Laravel
 
+![Hidden Issue with whereFulltext and RefreshDatabase in Laravel](assets/poster.jpg)
+
 ## Overview
 
 This article explores a hidden issue when using Laravel's `whereFulltext` method in tests that utilize the
