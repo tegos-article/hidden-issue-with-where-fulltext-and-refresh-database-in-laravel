@@ -10,7 +10,7 @@ tests relying on `whereFulltext` to return empty results. The article provides a
 presents practical solutions, including committing transactions manually and using dependency injection with a search
 repository.
 
-## Read the Full Article
+## 📎 Read Full
 
 [Hidden Issue with whereFulltext and RefreshDatabase in Laravel](https://dev.to/tegos/hidden-issue-with-wherefulltext-and-refreshdatabase-in-laravel-2p4f)
 
